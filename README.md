@@ -2,10 +2,6 @@
 
 A pixel-perfect frontend clone of Myntra, India's leading fashion and lifestyle e-commerce platform. This project demonstrates responsive web design principles and modern UI/UX implementation using pure HTML and CSS.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Design-brightgreen?style=for-the-badge)
->
 
 ## 📋 Table of Contents
 
