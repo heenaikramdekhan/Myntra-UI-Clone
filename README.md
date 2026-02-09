@@ -5,19 +5,7 @@ A pixel-perfect frontend clone of Myntra, India's leading fashion and lifestyle 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-brightgreen?style=for-the-badge)
-
-## 🌟 Live Demo
-
-[View Live Demo](#) <!-- Add your deployed link here -->
-
-## 📸 Screenshots
-
-<!-- Add screenshots of your project here -->
-```
-[Homepage Screenshot]
-[Product Listing Screenshot]
-[Footer Screenshot]
-```
+>
 
 ## 📋 Table of Contents
 
@@ -382,16 +370,7 @@ For any queries or suggestions, feel free to reach out:
 - [Dribbble](https://dribbble.com/) - UI/UX inspiration
 - [Behance](https://www.behance.net/) - Design projects
 
-## 📈 Project Status
 
-🟢 **Active Development** - Open to contributions and improvements
 
----
-
-### ⭐ If you found this project helpful, please give it a star!
-
-### 📣 Share this project with others who are learning frontend development!
-
----
 
 **Disclaimer**: This project is a clone created for educational purposes only. It is not affiliated with, endorsed by, or connected to Myntra in any way. All trademarks, logos, and brand names are the property of their respective owners.
